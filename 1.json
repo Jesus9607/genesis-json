@@ -111,52 +111,140 @@
         "meaning": "하나님께서"
       },
       {
-        "word": "...",
-        "meaning": "..."
+        "word": "יְהִי",
+        "meaning": "있으라"
+      },
+      {
+        "word": "אוֹר",
+        "meaning": "빛"
+      },
+      {
+        "word": "וַיְהִי",
+        "meaning": "그리고 있었다"
+      },
+      {
+        "word": "אוֹר",
+        "meaning": "빛"
       }
     ],
     "translation": {
-      "literal": "창세기 1장 3절 내용 (샘플 직역입니다)."
+      "literal": "하나님께서 말씀하시기를 '빛이 있으라' 하시니, 빛이 있었다."
     }
   },
   {
     "verse": "4",
     "hebrew_tokens": [
       {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
+        "word": "וַיַּרְא",
+        "meaning": "그리고 보셨다"
       },
       {
         "word": "אֱלֹהִים",
         "meaning": "하나님께서"
       },
       {
-        "word": "...",
-        "meaning": "..."
+        "word": "אֶת",
+        "meaning": "(목적어 표시)"
+      },
+      {
+        "word": "הָאוֹר",
+        "meaning": "그 빛"
+      },
+      {
+        "word": "כִּי",
+        "meaning": "그것이 ~함을"
+      },
+      {
+        "word": "טוֹב",
+        "meaning": "좋다"
+      },
+      {
+        "word": "וַיַּבְדֵּל",
+        "meaning": "그리고 나누셨다"
+      },
+      {
+        "word": "אֱלֹהִים",
+        "meaning": "하나님께서"
+      },
+      {
+        "word": "בֵּין",
+        "meaning": "~사이"
+      },
+      {
+        "word": "הָאוֹר",
+        "meaning": "빛"
+      },
+      {
+        "word": "וּבֵין",
+        "meaning": "그리고 ~사이"
+      },
+      {
+        "word": "הַחֹשֶׁךְ",
+        "meaning": "어둠"
       }
     ],
     "translation": {
-      "literal": "창세기 1장 4절 내용 (샘플 직역입니다)."
+      "literal": "하나님께서 그 빛이 좋음을 보시고, 하나님께서 빛과 어둠을 나누셨다."
     }
   },
   {
     "verse": "5",
     "hebrew_tokens": [
       {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
+        "word": "וַיִּקְרָא",
+        "meaning": "그리고 부르셨다"
       },
       {
         "word": "אֱלֹהִים",
         "meaning": "하나님께서"
       },
       {
-        "word": "...",
-        "meaning": "..."
+        "word": "לָאוֹר",
+        "meaning": "빛을"
+      },
+      {
+        "word": "יוֹם",
+        "meaning": "낮"
+      },
+      {
+        "word": "וְלַחֹשֶׁךְ",
+        "meaning": "그리고 어둠을"
+      },
+      {
+        "word": "קָרָא",
+        "meaning": "부르셨다"
+      },
+      {
+        "word": "לָיְלָה",
+        "meaning": "밤"
+      },
+      {
+        "word": "וַיְהִי",
+        "meaning": "그리고 있었다"
+      },
+      {
+        "word": "עֶרֶב",
+        "meaning": "저녁"
+      },
+      {
+        "word": "וַיְהִי",
+        "meaning": "그리고 있었다"
+      },
+      {
+        "word": "בֹּקֶר",
+        "meaning": "아침"
+      },
+      {
+        "word": "יוֹם",
+        "meaning": "하루"
+      },
+      {
+        "word": "אֶחָד",
+        "meaning": "첫째"
       }
     ],
     "translation": {
-      "literal": "창세기 1장 5절 내용 (샘플 직역입니다)."
+      "literal": "하나님께서 빛을 낮이라 부르시고, 어둠을 밤이라 부르셨다. 저녁이 되고 아침이 되니, 첫째 날이었다."
     }
   },
   {
@@ -171,512 +259,44 @@
         "meaning": "하나님께서"
       },
       {
-        "word": "...",
-        "meaning": "..."
+        "word": "יְהִי",
+        "meaning": "있으라"
+      },
+      {
+        "word": "רָקִיעַ",
+        "meaning": "궁창"
+      },
+      {
+        "word": "בְּתוֹךְ",
+        "meaning": "가운데"
+      },
+      {
+        "word": "הַמָּיִם",
+        "meaning": "물"
+      },
+      {
+        "word": "וִיהִי",
+        "meaning": "그리고 있으라"
+      },
+      {
+        "word": "מַבְדִּיל",
+        "meaning": "나누는 자"
+      },
+      {
+        "word": "בֵּין",
+        "meaning": "~사이"
+      },
+      {
+        "word": "מַיִם",
+        "meaning": "물"
+      },
+      {
+        "word": "לָמָיִם",
+        "meaning": "물과 물"
       }
     ],
     "translation": {
-      "literal": "창세기 1장 6절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "7",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 7절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "8",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 8절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "9",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 9절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "10",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 10절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "11",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 11절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "12",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 12절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "13",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 13절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "14",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 14절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "15",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 15절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "16",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 16절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "17",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 17절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "18",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 18절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "19",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 19절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "20",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 20절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "21",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 21절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "22",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 22절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "23",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 23절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "24",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 24절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "25",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 25절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "26",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 26절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "27",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 27절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "28",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 28절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "29",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 29절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "30",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 30절 내용 (샘플 직역입니다)."
-    }
-  },
-  {
-    "verse": "31",
-    "hebrew_tokens": [
-      {
-        "word": "וַיֹּאמֶר",
-        "meaning": "그리고 말씀하셨다"
-      },
-      {
-        "word": "אֱלֹהִים",
-        "meaning": "하나님께서"
-      },
-      {
-        "word": "...",
-        "meaning": "..."
-      }
-    ],
-    "translation": {
-      "literal": "창세기 1장 31절 내용 (샘플 직역입니다)."
+      "literal": "하나님께서 말씀하시기를 '물 가운데에 궁창이 있어 물과 물 사이를 나누라' 하셨다."
     }
   }
 ]
